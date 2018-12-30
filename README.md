@@ -18,5 +18,6 @@ can have any 2 Dimensional size. In other words, these matrix type is (m x n) ma
 - For example
 
 std::vector< std::vector< double > > aMatrix;
+
 std::vector< std::vector< int > > aMatrix;
 
