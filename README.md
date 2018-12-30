@@ -16,6 +16,7 @@ dot product, transposing matrix and so on.
 These matrix type is implemented internally as vectors of vectors so that matrix
 can have any 2 Dimensional size. In other words, these matrix type is (m x n) matrix.
 - For example
+
 std::vector< std::vector< double > > aMatrix;
 std::vector< std::vector< int > > aMatrix;
 
